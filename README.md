@@ -17,9 +17,14 @@ Here are some ideas to get you started:
 
 ### Tools:
 
+### Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=mhaikalfikri252&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaikalfikri252&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
 </a>
+
+### Social Media
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mhaikalfikri252/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/mhaikalfikri252/)
