@@ -1,7 +1,10 @@
 ### Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm mhaikalfikri
 I am an information technology graduate in 2020 at Polytechnic Aceh, I'm interested in software development and now focusing on studying laravel framework for web development and flutter framework for android app development, I've also learned some basic programming languages such as java, javascript and go.
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mhaikalfikri252.mhaikalfikri252)
+
 <!--
 **mhaikalfikri252/mhaikalfikri252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
