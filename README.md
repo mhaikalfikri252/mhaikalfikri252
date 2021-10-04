@@ -41,5 +41,7 @@ Here are some ideas to get you started:
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mhaikalfikri252/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/mhaikalfikri252/)
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/mhaikal.fikri.1671/)  &nbsp;
-    
+ 
+<p align="right">
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mhaikalfikri252.mhaikalfikri252)
+</p>
