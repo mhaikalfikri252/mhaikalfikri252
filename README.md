@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔨 Tools
+### 🔨 Tools & Languages
+<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
+<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
+<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 
 ### 📊 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
