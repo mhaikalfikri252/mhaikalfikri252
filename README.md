@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 ### 🔨 Tools & Languages
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
