@@ -38,8 +38,11 @@ Here are some ideas to get you started:
 </a>
 
 ### Connect with Me
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mhaikalfikri252/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/mhaikalfikri252/)
-[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/mhaikal.fikri.1671/)  &nbsp;
+    <a href="https://www.linkedin.com/in/mhaikalfikri252/" target="blank"><img align="left" src="icons/linkedin.svg" alt="mhaikalfikri" width="22px" /></a>
+  <a href="https://t.me/mhaikalfikri252">
+  <img align="left" alt="Mhaikalfikri's Telegram" width="22px" src="icons/telegram.svg" />
+</a>
+<a href="https://www.facebook.com/mhaikal.fikri.1671/" target="blank"><img align="left" src="icons/facebook.svg" alt="mhaikalfikri" width="22px" /></a>
+<a href="https://www.instagram.com/mhaikalfikri252/" target="blank"><img align="left" src="icons/instagram.svg" alt="mhaikalfikri" width="22px" /></a>
  
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=mhaikalfikri252)
