@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaikalfikri252&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
 </a>
 
-### Connect with me
+### Connect with Me
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mhaikalfikri252/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/mhaikalfikri252/)
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/mhaikal.fikri.1671/)  &nbsp;
