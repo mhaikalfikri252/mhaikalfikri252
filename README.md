@@ -1,4 +1,4 @@
-### Hi there, I'm mhaikalfikri <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm mhaikalfikri
 I am an information technology graduate in 2020 at Polytechnic Aceh, I'm interested in software development and now focusing on studying laravel framework for web development and flutter framework for android app development, I've also learned some basic programming languages such as java, javascript and go.
 <!--
 **mhaikalfikri252/mhaikalfikri252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Tools
+### 🔨 Tools
 
-### Stats
+### 📊 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=mhaikalfikri252&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 ### Connect with me
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mhaikalfikri252/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/mhaikalfikri252/)
+<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/mhaikalfikri252/)
+<a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"
