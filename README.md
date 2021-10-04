@@ -43,4 +43,6 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/mhaikal.fikri.1671/" target="blank"><img align="left" src="icons/facebook.svg" alt="mhaikalfikri" width="22px" /></a>
 <a href="https://www.instagram.com/mhaikalfikri252/" target="blank"><img align="left" src="icons/instagram.svg" alt="mhaikalfikri" width="22px" /></a>
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=mhaikalfikri252)
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mhaikalfikri252.mhaikalfikri252" alt="visitor badge"/>       
+</p>
