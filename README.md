@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 ### Connect with me
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mhaikalfikri252/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/mhaikalfikri252/)
-<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>] (https://www.facebook.com/mhaikalfikri252/)
-<a href="mhaikalfikri252@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/mhaikalfikri252/)  &nbsp;
