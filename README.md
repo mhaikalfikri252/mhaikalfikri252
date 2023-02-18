@@ -1,5 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm mhaikalfikri
-I am an information technology graduate in 2020 at Polytechnic Aceh, I'm interested in software development and now focusing on studying laravel framework for web development and flutter framework for android app development, I've also learned some basic programming languages such as java, javascript and go.
+### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm mhaikalfikri, I'm interested in Software Quality Assurance and Software Development, Now focusing on studying laravel framework for web development and flutter framework for android app development, I've also learned some basic programming languages such as java, javascript and go.
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
